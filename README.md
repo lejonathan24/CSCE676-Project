@@ -128,8 +128,6 @@ CSCE676-Project/
 ├── data/
 │   ├── df_electronics.csv        # not committed if too large
 │   └── df_modcloth.csv           # optional / checkpoint 1
-└── assets/
-    └── figures/                  # optional exported plots
 ```
 
 ## Notes on Interpretation
